@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 My name is Nicholas Farmer and I am an aspiring developer starting my journey through Tech Elevator. 
 I am currently enrolled at Tech Elevator for their Full Stack Java developer course, and I am excited to get to learning!
 Some of my favorite hobbies outside of coding include music/playing guitar, Japanese language learning, video games, and art.
-You can reach me via email at wretchedbynature@icloud.com 
+You can reach me via email at nicholasf428@proton.me
